@@ -1,0 +1,24 @@
+{
+  "hour_records": 17379,
+  "day_records": 731,
+  "mean_cnt": 189.46308763450142,
+  "median_cnt": 142.0,
+  "p_less_mean": 0.5,
+  "p_greater_median": 0.603213679954949,
+  "test_A_p": 0.3996404376820285,
+  "test_B_p": 0.6256685309952349,
+  "pearson_r": 0.4047722757786586,
+  "simple_R2": 0.1638405952390346,
+  "multiple_R2": 0.3250333181785837,
+  "logistic_accuracy": 0.7608745684695052,
+  "confusion_matrix": [
+    [
+      1653,
+      524
+    ],
+    [
+      515,
+      1653
+    ]
+  ]
+}
